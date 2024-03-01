@@ -11,6 +11,7 @@ function QaBox() {
     <div className='quoraBox'>
         <div className='quoraBox__info'>
             <Avatar src={user?.photo}/>
+            <p style={{fontSize:"12px",fontWeight:600, color:"black", marginLeft:"5px"}}>{user?.email}</p>
         </div>
         <div className='quoraBox__quora'>
             <h5 >What is your question or link?</h5>

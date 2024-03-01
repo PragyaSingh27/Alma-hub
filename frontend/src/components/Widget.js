@@ -6,7 +6,7 @@ function Widget() {
   return (
     <div className='widget'>
         <div className='widget__header'>
-          <h5>Spaces to follow</h5>
+          <h3 style={{margin:"5px", textAlign:"center"}}>Announcements</h3>
         </div>
         <div className='widget__contents'>
             <WidgetContent/>

@@ -2,7 +2,7 @@
 
 React Responsive Website.
 
-[**Alma-hub**](https://github.com/PragyaSingh27/Alma-hub.gitc)
+[**Alma-hub**](https://github.com/PragyaSingh27/Alma-hub.git)
 
 <!-- ## 📸 ScreenShots 📷 -->
 
@@ -28,3 +28,4 @@ React Responsive Website.
 | [**ExpressJS**]()                  |
 | [**Mongoose**]()                   | 
 | [**ReactJS**]()                    |"# Alma-hub" 
+"# Alma-hub2" 

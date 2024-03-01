@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import './Login.css';
 import {signInWithPopup, createUserWithEmailAndPassword, signInWithEmailAndPassword } from 'firebase/auth';
 import {auth,provider} from '../../firebase';
-import Register from './Register';
+// import Register from './Register';
 import { useSelector } from 'react-redux';
 import { selectUser } from '../../feature/userSlice';
 // import { Link } from 'react-router-dom';

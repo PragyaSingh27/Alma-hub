@@ -11,7 +11,7 @@ function Qa() {
       <QaHeader/>
         <div className='quora__contents'>
             <div className='quora__content'>
-                <Sidebar/>
+                {/* <Sidebar/> */}
                 <Feed/>
                 <Widget/>
             </div>
